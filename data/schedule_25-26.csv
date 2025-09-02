@@ -1,0 +1,343 @@
+date,home_team,away_team
+2025-08-15 17:00:00+00:00,Girona,Rayo Vallecano
+2025-08-16 17:30:00+00:00,Mallorca,Barcelona
+2025-08-16 19:30:00+00:00,Alaves,Levante
+2025-08-16 19:30:00+00:00,Valencia,Real Sociedad
+2025-08-17 15:00:00+00:00,Celta Vigo,Getafe
+2025-08-17 17:30:00+00:00,Athletic Club,Sevilla
+2025-08-17 19:30:00+00:00,Espanyol,Atletico Madrid
+2025-08-18 19:00:00+00:00,Elche,Real Betis
+2025-08-19 19:00:00+00:00,Real Madrid,Osasuna
+2025-08-22 19:30:00+00:00,Real Betis,Alaves
+2025-08-23 15:00:00+00:00,Mallorca,Celta Vigo
+2025-08-23 17:30:00+00:00,Atletico Madrid,Elche
+2025-08-23 19:30:00+00:00,Levante,Barcelona
+2025-08-24 15:00:00+00:00,Osasuna,Valencia
+2025-08-24 17:30:00+00:00,Real Sociedad,Espanyol
+2025-08-24 17:30:00+00:00,Villarreal,Girona
+2025-08-25 17:30:00+00:00,Athletic Club,Rayo Vallecano
+2025-08-25 19:30:00+00:00,Sevilla,Getafe
+2025-08-27 19:00:00+00:00,Celta Vigo,Real Betis
+2025-08-29 17:30:00+00:00,Elche,Levante
+2025-08-29 19:30:00+00:00,Valencia,Getafe
+2025-08-30 15:00:00+00:00,Alaves,Atletico Madrid
+2025-08-30 17:30:00+00:00,Girona,Sevilla
+2025-08-30 19:30:00+00:00,Real Madrid,Mallorca
+2025-08-31 15:00:00+00:00,Celta Vigo,Villarreal
+2025-08-31 17:00:00+00:00,Real Betis,Athletic Club
+2025-08-31 17:30:00+00:00,Espanyol,Osasuna
+2025-08-31 19:30:00+00:00,Rayo Vallecano,Barcelona
+2025-09-12 19:00:00+00:00,Sevilla,Elche
+2025-09-13 14:15:00+00:00,Levante,Real Betis
+2025-09-14 12:00:00+00:00,Celta Vigo,Girona
+2025-09-14 16:30:00+00:00,Osasuna,Rayo Vallecano
+2025-09-14 18:00:00+00:00,Athletic Club,Alaves
+2025-09-14 18:00:00+00:00,Atletico Madrid,Villarreal
+2025-09-14 18:00:00+00:00,Barcelona,Valencia
+2025-09-14 18:00:00+00:00,Real Sociedad,Real Madrid
+2025-09-15 19:00:00+00:00,Espanyol,Mallorca
+2025-09-21 18:00:00+00:00,Villarreal,Osasuna
+2025-09-21 18:00:00+00:00,Valencia,Athletic Club
+2025-09-21 18:00:00+00:00,Real Madrid,Espanyol
+2025-09-21 18:00:00+00:00,Rayo Vallecano,Celta Vigo
+2025-09-21 18:00:00+00:00,Real Betis,Real Sociedad
+2025-09-21 18:00:00+00:00,Girona,Levante
+2025-09-21 18:00:00+00:00,Mallorca,Atletico Madrid
+2025-09-21 18:00:00+00:00,Barcelona,Getafe
+2025-09-21 18:00:00+00:00,Alaves,Sevilla
+2025-09-24 18:00:00+00:00,Sevilla,Villarreal
+2025-09-24 18:00:00+00:00,Real Sociedad,Mallorca
+2025-09-24 18:00:00+00:00,Osasuna,Elche
+2025-09-24 18:00:00+00:00,Levante,Real Madrid
+2025-09-24 18:00:00+00:00,Getafe,Alaves
+2025-09-24 18:00:00+00:00,Espanyol,Valencia
+2025-09-24 18:00:00+00:00,Atletico Madrid,Rayo Vallecano
+2025-09-24 18:00:00+00:00,Athletic Club,Girona
+2025-09-28 18:00:00+00:00,Villarreal,Athletic Club
+2025-09-28 18:00:00+00:00,Real Betis,Osasuna
+2025-09-28 18:00:00+00:00,Rayo Vallecano,Sevilla
+2025-09-28 18:00:00+00:00,Mallorca,Alaves
+2025-09-28 18:00:00+00:00,Atletico Madrid,Real Madrid
+2025-09-28 18:00:00+00:00,Getafe,Levante
+2025-09-28 18:00:00+00:00,Elche,Celta Vigo
+2025-09-28 18:00:00+00:00,Barcelona,Real Sociedad
+2025-09-28 18:00:00+00:00,Girona,Espanyol
+2025-10-05 18:00:00+00:00,Real Madrid,Villarreal
+2025-10-05 18:00:00+00:00,Sevilla,Barcelona
+2025-10-05 18:00:00+00:00,Real Sociedad,Rayo Vallecano
+2025-10-05 18:00:00+00:00,Osasuna,Getafe
+2025-10-05 18:00:00+00:00,Alaves,Elche
+2025-10-05 18:00:00+00:00,Espanyol,Real Betis
+2025-10-05 18:00:00+00:00,Celta Vigo,Atletico Madrid
+2025-10-05 18:00:00+00:00,Athletic Club,Mallorca
+2025-10-05 18:00:00+00:00,Girona,Valencia
+2025-10-19 18:00:00+00:00,Villarreal,Real Betis
+2025-10-19 18:00:00+00:00,Sevilla,Mallorca
+2025-10-19 18:00:00+00:00,Levante,Rayo Vallecano
+2025-10-19 18:00:00+00:00,Getafe,Real Madrid
+2025-10-19 18:00:00+00:00,Celta Vigo,Real Sociedad
+2025-10-19 18:00:00+00:00,Barcelona,Girona
+2025-10-19 18:00:00+00:00,Atletico Madrid,Osasuna
+2025-10-19 18:00:00+00:00,Alaves,Valencia
+2025-10-19 18:00:00+00:00,Elche,Athletic Club
+2025-10-26 18:00:00+00:00,Real Betis,Atletico Madrid
+2025-10-26 18:00:00+00:00,Valencia,Villarreal
+2025-10-26 18:00:00+00:00,Real Sociedad,Sevilla
+2025-10-26 18:00:00+00:00,Real Madrid,Barcelona
+2025-10-26 18:00:00+00:00,Rayo Vallecano,Alaves
+2025-10-26 18:00:00+00:00,Espanyol,Elche
+2025-10-26 18:00:00+00:00,Mallorca,Levante
+2025-10-26 18:00:00+00:00,Osasuna,Celta Vigo
+2025-10-26 18:00:00+00:00,Athletic Club,Getafe
+2025-11-02 20:00:00+00:00,Villarreal,Rayo Vallecano
+2025-11-02 20:00:00+00:00,Real Sociedad,Athletic Club
+2025-11-02 20:00:00+00:00,Real Madrid,Valencia
+2025-11-02 20:00:00+00:00,Real Betis,Mallorca
+2025-11-02 20:00:00+00:00,Getafe,Girona
+2025-11-02 20:00:00+00:00,Barcelona,Elche
+2025-11-02 20:00:00+00:00,Atletico Madrid,Sevilla
+2025-11-02 20:00:00+00:00,Alaves,Espanyol
+2025-11-02 20:00:00+00:00,Levante,Celta Vigo
+2025-11-09 20:00:00+00:00,Mallorca,Getafe
+2025-11-09 20:00:00+00:00,Valencia,Real Betis
+2025-11-09 20:00:00+00:00,Sevilla,Osasuna
+2025-11-09 20:00:00+00:00,Rayo Vallecano,Real Madrid
+2025-11-09 20:00:00+00:00,Girona,Alaves
+2025-11-09 20:00:00+00:00,Espanyol,Villarreal
+2025-11-09 20:00:00+00:00,Elche,Real Sociedad
+2025-11-09 20:00:00+00:00,Celta Vigo,Barcelona
+2025-11-09 20:00:00+00:00,Atletico Madrid,Levante
+2025-11-23 20:00:00+00:00,Villarreal,Mallorca
+2025-11-23 20:00:00+00:00,Valencia,Levante
+2025-11-23 20:00:00+00:00,Real Betis,Girona
+2025-11-23 20:00:00+00:00,Osasuna,Real Sociedad
+2025-11-23 20:00:00+00:00,Getafe,Atletico Madrid
+2025-11-23 20:00:00+00:00,Espanyol,Sevilla
+2025-11-23 20:00:00+00:00,Elche,Real Madrid
+2025-11-23 20:00:00+00:00,Barcelona,Athletic Club
+2025-11-23 20:00:00+00:00,Alaves,Celta Vigo
+2025-11-30 20:00:00+00:00,Real Sociedad,Villarreal
+2025-11-30 20:00:00+00:00,Rayo Vallecano,Valencia
+2025-11-30 20:00:00+00:00,Mallorca,Osasuna
+2025-11-30 20:00:00+00:00,Levante,Athletic Club
+2025-11-30 20:00:00+00:00,Sevilla,Real Betis
+2025-11-30 20:00:00+00:00,Getafe,Elche
+2025-11-30 20:00:00+00:00,Celta Vigo,Espanyol
+2025-11-30 20:00:00+00:00,Barcelona,Alaves
+2025-11-30 20:00:00+00:00,Girona,Real Madrid
+2025-12-07 20:00:00+00:00,Villarreal,Getafe
+2025-12-07 20:00:00+00:00,Valencia,Sevilla
+2025-12-07 20:00:00+00:00,Real Madrid,Celta Vigo
+2025-12-07 20:00:00+00:00,Real Betis,Barcelona
+2025-12-07 20:00:00+00:00,Osasuna,Levante
+2025-12-07 20:00:00+00:00,Espanyol,Rayo Vallecano
+2025-12-07 20:00:00+00:00,Elche,Girona
+2025-12-07 20:00:00+00:00,Athletic Club,Atletico Madrid
+2025-12-07 20:00:00+00:00,Alaves,Real Sociedad
+2025-12-14 20:00:00+00:00,Real Sociedad,Girona
+2025-12-14 20:00:00+00:00,Rayo Vallecano,Real Betis
+2025-12-14 20:00:00+00:00,Mallorca,Elche
+2025-12-14 20:00:00+00:00,Levante,Villarreal
+2025-12-14 20:00:00+00:00,Celta Vigo,Athletic Club
+2025-12-14 20:00:00+00:00,Barcelona,Osasuna
+2025-12-14 20:00:00+00:00,Atletico Madrid,Valencia
+2025-12-14 20:00:00+00:00,Alaves,Real Madrid
+2025-12-14 20:00:00+00:00,Getafe,Espanyol
+2025-12-21 20:00:00+00:00,Valencia,Mallorca
+2025-12-21 20:00:00+00:00,Real Madrid,Sevilla
+2025-12-21 20:00:00+00:00,Real Betis,Getafe
+2025-12-21 20:00:00+00:00,Villarreal,Barcelona
+2025-12-21 20:00:00+00:00,Levante,Real Sociedad
+2025-12-21 20:00:00+00:00,Girona,Atletico Madrid
+2025-12-21 20:00:00+00:00,Elche,Rayo Vallecano
+2025-12-21 20:00:00+00:00,Athletic Club,Espanyol
+2025-12-21 20:00:00+00:00,Osasuna,Alaves
+2026-01-04 20:00:00+00:00,Sevilla,Levante
+2026-01-04 20:00:00+00:00,Real Sociedad,Atletico Madrid
+2026-01-04 20:00:00+00:00,Real Madrid,Real Betis
+2026-01-04 20:00:00+00:00,Rayo Vallecano,Getafe
+2026-01-04 20:00:00+00:00,Osasuna,Athletic Club
+2026-01-04 20:00:00+00:00,Mallorca,Girona
+2026-01-04 20:00:00+00:00,Elche,Villarreal
+2026-01-04 20:00:00+00:00,Celta Vigo,Valencia
+2026-01-04 20:00:00+00:00,Espanyol,Barcelona
+2026-01-11 20:00:00+00:00,Valencia,Elche
+2026-01-11 20:00:00+00:00,Sevilla,Celta Vigo
+2026-01-11 20:00:00+00:00,Rayo Vallecano,Mallorca
+2026-01-11 20:00:00+00:00,Villarreal,Alaves
+2026-01-11 20:00:00+00:00,Girona,Osasuna
+2026-01-11 20:00:00+00:00,Getafe,Real Sociedad
+2026-01-11 20:00:00+00:00,Barcelona,Atletico Madrid
+2026-01-11 20:00:00+00:00,Athletic Club,Real Madrid
+2026-01-11 20:00:00+00:00,Levante,Espanyol
+2026-01-18 20:00:00+00:00,Real Sociedad,Barcelona
+2026-01-18 20:00:00+00:00,Real Madrid,Levante
+2026-01-18 20:00:00+00:00,Real Betis,Villarreal
+2026-01-18 20:00:00+00:00,Mallorca,Athletic Club
+2026-01-18 20:00:00+00:00,Getafe,Valencia
+2026-01-18 20:00:00+00:00,Espanyol,Girona
+2026-01-18 20:00:00+00:00,Elche,Sevilla
+2026-01-18 20:00:00+00:00,Celta Vigo,Rayo Vallecano
+2026-01-18 20:00:00+00:00,Atletico Madrid,Alaves
+2026-01-25 20:00:00+00:00,Valencia,Espanyol
+2026-01-25 20:00:00+00:00,Sevilla,Athletic Club
+2026-01-25 20:00:00+00:00,Real Sociedad,Celta Vigo
+2026-01-25 20:00:00+00:00,Rayo Vallecano,Osasuna
+2026-01-25 20:00:00+00:00,Villarreal,Real Madrid
+2026-01-25 20:00:00+00:00,Girona,Getafe
+2026-01-25 20:00:00+00:00,Atletico Madrid,Mallorca
+2026-01-25 20:00:00+00:00,Alaves,Real Betis
+2026-01-25 20:00:00+00:00,Levante,Elche
+2026-02-01 20:00:00+00:00,Real Madrid,Rayo Vallecano
+2026-02-01 20:00:00+00:00,Real Betis,Valencia
+2026-02-01 20:00:00+00:00,Osasuna,Villarreal
+2026-02-01 20:00:00+00:00,Mallorca,Sevilla
+2026-02-01 20:00:00+00:00,Getafe,Celta Vigo
+2026-02-01 20:00:00+00:00,Espanyol,Alaves
+2026-02-01 20:00:00+00:00,Elche,Barcelona
+2026-02-01 20:00:00+00:00,Athletic Club,Real Sociedad
+2026-02-01 20:00:00+00:00,Levante,Atletico Madrid
+2026-02-08 20:00:00+00:00,Villarreal,Espanyol
+2026-02-08 20:00:00+00:00,Valencia,Real Madrid
+2026-02-08 20:00:00+00:00,Sevilla,Girona
+2026-02-08 20:00:00+00:00,Real Sociedad,Elche
+2026-02-08 20:00:00+00:00,Celta Vigo,Osasuna
+2026-02-08 20:00:00+00:00,Atletico Madrid,Real Betis
+2026-02-08 20:00:00+00:00,Athletic Club,Levante
+2026-02-08 20:00:00+00:00,Alaves,Getafe
+2026-02-08 20:00:00+00:00,Barcelona,Mallorca
+2026-02-15 20:00:00+00:00,Rayo Vallecano,Atletico Madrid
+2026-02-15 20:00:00+00:00,Sevilla,Alaves
+2026-02-15 20:00:00+00:00,Real Madrid,Real Sociedad
+2026-02-15 20:00:00+00:00,Mallorca,Real Betis
+2026-02-15 20:00:00+00:00,Levante,Valencia
+2026-02-15 20:00:00+00:00,Girona,Barcelona
+2026-02-15 20:00:00+00:00,Getafe,Villarreal
+2026-02-15 20:00:00+00:00,Espanyol,Celta Vigo
+2026-02-15 20:00:00+00:00,Elche,Osasuna
+2026-02-22 20:00:00+00:00,Villarreal,Valencia
+2026-02-22 20:00:00+00:00,Real Betis,Rayo Vallecano
+2026-02-22 20:00:00+00:00,Osasuna,Real Madrid
+2026-02-22 20:00:00+00:00,Getafe,Sevilla
+2026-02-22 20:00:00+00:00,Barcelona,Levante
+2026-02-22 20:00:00+00:00,Atletico Madrid,Espanyol
+2026-02-22 20:00:00+00:00,Athletic Club,Elche
+2026-02-22 20:00:00+00:00,Alaves,Girona
+2026-02-22 20:00:00+00:00,Celta Vigo,Mallorca
+2026-03-01 20:00:00+00:00,Real Betis,Sevilla
+2026-03-01 20:00:00+00:00,Valencia,Osasuna
+2026-03-01 20:00:00+00:00,Real Madrid,Getafe
+2026-03-01 20:00:00+00:00,Rayo Vallecano,Athletic Club
+2026-03-01 20:00:00+00:00,Barcelona,Villarreal
+2026-03-01 20:00:00+00:00,Levante,Alaves
+2026-03-01 20:00:00+00:00,Girona,Celta Vigo
+2026-03-01 20:00:00+00:00,Elche,Espanyol
+2026-03-01 20:00:00+00:00,Mallorca,Real Sociedad
+2026-03-08 18:00:00+00:00,Osasuna,Mallorca
+2026-03-08 18:00:00+00:00,Villarreal,Elche
+2026-03-08 18:00:00+00:00,Valencia,Alaves
+2026-03-08 18:00:00+00:00,Sevilla,Rayo Vallecano
+2026-03-08 18:00:00+00:00,Levante,Girona
+2026-03-08 18:00:00+00:00,Athletic Club,Barcelona
+2026-03-08 18:00:00+00:00,Celta Vigo,Real Madrid
+2026-03-08 18:00:00+00:00,Atletico Madrid,Real Sociedad
+2026-03-08 18:00:00+00:00,Getafe,Real Betis
+2026-03-15 18:00:00+00:00,Real Sociedad,Osasuna
+2026-03-15 18:00:00+00:00,Real Madrid,Elche
+2026-03-15 18:00:00+00:00,Real Betis,Celta Vigo
+2026-03-15 18:00:00+00:00,Rayo Vallecano,Levante
+2026-03-15 18:00:00+00:00,Girona,Athletic Club
+2026-03-15 18:00:00+00:00,Barcelona,Sevilla
+2026-03-15 18:00:00+00:00,Atletico Madrid,Getafe
+2026-03-15 18:00:00+00:00,Alaves,Villarreal
+2026-03-15 18:00:00+00:00,Mallorca,Espanyol
+2026-03-22 18:00:00+00:00,Osasuna,Girona
+2026-03-22 18:00:00+00:00,Sevilla,Valencia
+2026-03-22 18:00:00+00:00,Real Madrid,Atletico Madrid
+2026-03-22 18:00:00+00:00,Villarreal,Real Sociedad
+2026-03-22 18:00:00+00:00,Celta Vigo,Alaves
+2026-03-22 18:00:00+00:00,Elche,Mallorca
+2026-03-22 18:00:00+00:00,Barcelona,Rayo Vallecano
+2026-03-22 18:00:00+00:00,Athletic Club,Real Betis
+2026-03-22 18:00:00+00:00,Espanyol,Getafe
+2026-04-05 18:00:00+00:00,Valencia,Celta Vigo
+2026-04-05 18:00:00+00:00,Real Sociedad,Levante
+2026-04-05 18:00:00+00:00,Real Betis,Espanyol
+2026-04-05 18:00:00+00:00,Rayo Vallecano,Elche
+2026-04-05 18:00:00+00:00,Girona,Villarreal
+2026-04-05 18:00:00+00:00,Getafe,Athletic Club
+2026-04-05 18:00:00+00:00,Atletico Madrid,Barcelona
+2026-04-05 18:00:00+00:00,Alaves,Osasuna
+2026-04-05 18:00:00+00:00,Mallorca,Real Madrid
+2026-04-12 18:00:00+00:00,Osasuna,Real Betis
+2026-04-12 18:00:00+00:00,Sevilla,Atletico Madrid
+2026-04-12 18:00:00+00:00,Real Sociedad,Alaves
+2026-04-12 18:00:00+00:00,Real Madrid,Girona
+2026-04-12 18:00:00+00:00,Mallorca,Rayo Vallecano
+2026-04-12 18:00:00+00:00,Athletic Club,Villarreal
+2026-04-12 18:00:00+00:00,Elche,Valencia
+2026-04-12 18:00:00+00:00,Barcelona,Espanyol
+2026-04-12 18:00:00+00:00,Levante,Getafe
+2026-04-19 18:00:00+00:00,Real Betis,Real Madrid
+2026-04-19 18:00:00+00:00,Villarreal,Celta Vigo
+2026-04-19 18:00:00+00:00,Valencia,Girona
+2026-04-19 18:00:00+00:00,Rayo Vallecano,Real Sociedad
+2026-04-19 18:00:00+00:00,Alaves,Mallorca
+2026-04-19 18:00:00+00:00,Getafe,Barcelona
+2026-04-19 18:00:00+00:00,Espanyol,Levante
+2026-04-19 18:00:00+00:00,Atletico Madrid,Athletic Club
+2026-04-19 18:00:00+00:00,Osasuna,Sevilla
+2026-04-22 18:00:00+00:00,Real Sociedad,Getafe
+2026-04-22 18:00:00+00:00,Real Madrid,Alaves
+2026-04-22 18:00:00+00:00,Rayo Vallecano,Espanyol
+2026-04-22 18:00:00+00:00,Mallorca,Valencia
+2026-04-22 18:00:00+00:00,Girona,Real Betis
+2026-04-22 18:00:00+00:00,Elche,Atletico Madrid
+2026-04-22 18:00:00+00:00,Barcelona,Celta Vigo
+2026-04-22 18:00:00+00:00,Athletic Club,Osasuna
+2026-04-22 18:00:00+00:00,Levante,Sevilla
+2026-05-03 18:00:00+00:00,Valencia,Atletico Madrid
+2026-05-03 18:00:00+00:00,Sevilla,Real Sociedad
+2026-05-03 18:00:00+00:00,Villarreal,Levante
+2026-05-03 18:00:00+00:00,Osasuna,Barcelona
+2026-05-03 18:00:00+00:00,Espanyol,Real Madrid
+2026-05-03 18:00:00+00:00,Getafe,Rayo Vallecano
+2026-05-03 18:00:00+00:00,Celta Vigo,Elche
+2026-05-03 18:00:00+00:00,Alaves,Athletic Club
+2026-05-03 18:00:00+00:00,Girona,Mallorca
+2026-05-10 18:00:00+00:00,Sevilla,Espanyol
+2026-05-10 18:00:00+00:00,Real Sociedad,Real Betis
+2026-05-10 18:00:00+00:00,Rayo Vallecano,Girona
+2026-05-10 18:00:00+00:00,Mallorca,Villarreal
+2026-05-10 18:00:00+00:00,Levante,Osasuna
+2026-05-10 18:00:00+00:00,Elche,Alaves
+2026-05-10 18:00:00+00:00,Barcelona,Real Madrid
+2026-05-10 18:00:00+00:00,Atletico Madrid,Celta Vigo
+2026-05-10 18:00:00+00:00,Athletic Club,Valencia
+2026-05-13 18:00:00+00:00,Valencia,Rayo Vallecano
+2026-05-13 18:00:00+00:00,Villarreal,Sevilla
+2026-05-13 18:00:00+00:00,Real Betis,Elche
+2026-05-13 18:00:00+00:00,Osasuna,Atletico Madrid
+2026-05-13 18:00:00+00:00,Getafe,Mallorca
+2026-05-13 18:00:00+00:00,Espanyol,Athletic Club
+2026-05-13 18:00:00+00:00,Celta Vigo,Levante
+2026-05-13 18:00:00+00:00,Alaves,Barcelona
+2026-05-13 18:00:00+00:00,Girona,Real Sociedad
+2026-05-17 18:00:00+00:00,Sevilla,Real Madrid
+2026-05-17 18:00:00+00:00,Real Sociedad,Valencia
+2026-05-17 18:00:00+00:00,Rayo Vallecano,Villarreal
+2026-05-17 18:00:00+00:00,Osasuna,Espanyol
+2026-05-17 18:00:00+00:00,Elche,Getafe
+2026-05-17 18:00:00+00:00,Barcelona,Real Betis
+2026-05-17 18:00:00+00:00,Atletico Madrid,Girona
+2026-05-17 18:00:00+00:00,Athletic Club,Celta Vigo
+2026-05-17 18:00:00+00:00,Levante,Mallorca
+2026-05-24 18:00:00+00:00,Valencia,Barcelona
+2026-05-24 18:00:00+00:00,Alaves,Rayo Vallecano
+2026-05-24 18:00:00+00:00,Celta Vigo,Sevilla
+2026-05-24 18:00:00+00:00,Espanyol,Real Sociedad
+2026-05-24 18:00:00+00:00,Getafe,Osasuna
+2026-05-24 18:00:00+00:00,Girona,Elche
+2026-05-24 18:00:00+00:00,Real Betis,Levante
+2026-05-24 18:00:00+00:00,Real Madrid,Athletic Club
+2026-05-24 18:00:00+00:00,Villarreal,Atletico Madrid
