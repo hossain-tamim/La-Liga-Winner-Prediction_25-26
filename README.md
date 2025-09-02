@@ -8,8 +8,8 @@ The model uses team-level features such as goals, expected goals (xG), possessio
 
 ## Project Structure
 .
-├── Data_Collection.ipynb # Notebook for collecting and cleaning data
-├── RF_Model.ipynb # Notebook for Random Forest training & prediction
+├── Data_Collection.ipynb # Notebook for collecting and cleaning data \n
+├── RF_Model.ipynb # Notebook for Random Forest training & prediction \n
 ├── data/
 │ ├── team_Match_dataB.csv
 │ ├── resampled_team_Match_dataB.csv
@@ -50,6 +50,5 @@ The model uses team-level features such as goals, expected goals (xG), possessio
 1. Install dependencies:
    ```bash
    pip install soccerdata pandas scikit-learn
-   Run Data_Collection.ipynb to fetch and clean historical data.
-
-Run RF_Model.ipynb to train the model and generate predictions.
+2. Run Data_Collection.ipynb to fetch and clean historical data.
+3. Run RF_Model.ipynb to train the model and generate predictions.
