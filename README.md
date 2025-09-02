@@ -1,20 +1,8 @@
 # La Liga 2025/26 Match Prediction 
 ## Abstract
-This project predicts match outcomes for the 2025/26 La Liga season using machine learning. Historical match statistics were collected from the Understat API through the `soccerdata` Python library, then cleaned and structured for training. A **Random Forest classifier** was developed to forecast results while deliberately excluding matches involving **Real Oviedo**.  
-
-The model uses team-level features such as goals, expected goals (xG), possession, and shooting metrics. Predictions are generated for the official 25/26 season schedule, providing insights for analysts, fans, and sports researchers.
+This project focuses on predicting match outcomes for the 2025/26 La Liga season using a machine learning approach. Historical match data was collected from the Understat API through the soccerdata Python library. The dataset includes team-level match statistics, past performance metrics, and scheduling information. A Random Forest classifier was developed and trained to predict match results. The model leverages resampled team match data to handle class imbalance and uses features such as goals, possession, and shooting statistics to generate predictions. The final system provides automated forecasts for all league matches in the 25/26 season, except those involving Real Oviedo, offering insights for analysts, fans, and sports researchers.
 
 ---
-
-## Project Structure
-.
-├── Data_Collection.ipynb # Notebook for collecting and cleaning data \n
-├── RF_Model.ipynb # Notebook for Random Forest training & prediction \n
-├── data/
-│ ├── team_Match_dataB.csv
-│ ├── resampled_team_Match_dataB.csv
-│ └── schedule_25-26.csv
-└── README.md
 
 ## Data Collection
 - **Source**: [Understat API](https://understat.com/) via `soccerdata` library.  
